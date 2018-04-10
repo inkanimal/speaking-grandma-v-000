@@ -2,8 +2,7 @@
 def speak_to_grandma(string)
   if "#{string}.upcase" == true
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif
-    puts "HUH?! SPEAK UP SONNY!"
+
   end
 end
 # Whatever you say to grandma, she should respond with
